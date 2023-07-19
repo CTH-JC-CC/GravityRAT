@@ -1,0 +1,14 @@
+eu.siacs.chatico
+eu.siacs.bingechat
+colorlib.com
+jre.jdklibraries.com
+cld.androidadbserver.com
+BingeChat.zip
+adb.androidadbserver.com
+downloads.bingechat.net
+preview.colorlib.com
+dev.jdklibraries.com
+ping.androidadbserver.com
+bingechat.net
+dev.androidadbserver.com
+chatico.co.uk
