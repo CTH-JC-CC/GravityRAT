@@ -136,3 +136,4 @@ Data is staged for exfiltration in the following places:
 /storage/emulated/0/bc/cdms.log
 /storage/emulated/0/bc/cs.log
 /storage/emulated/0/bc/location.log
+
